@@ -5,7 +5,7 @@ After completing [b90training](b90training.md), this is the third step to create
 ## Platform Players
 | Programming Interface | Role                 | Platform Players            |Discipline            |
 |:----------------------|:---------------------|:----------------------------|:---------------------|
-| oS3Pi_CYTO            | Owners               | ourStoryNetwork             | Platform Engineering |
-| 144phiPi_MAMA         | Providers            | b09_GitHub, Figma, Instagram, X (Twitter), Substack, PayHip        | Machine Learning     |
-| 432ourPi_PAPA         | Producers            | Platform CEO                | Blockchain           |
-| 369myPi_YOGA          | Consumers            | Platform CLO                | Biomimicry           |
+| oS3Pi_CYTO            | Owners               | Zora (Subcontractor Trade Associations) | Platform Engineering |
+| 144phiPi_MAMA         | Providers            | Solucis (Municipal Permiting and Licensing Offices)| Machine Learning     |
+| 432ourPi_PAPA         | Producers            | AI Open Source Developers                | Blockchain           |
+| 369myPi_YOGA          | Consumers            | Subcontractors                | Biomimicry           |
