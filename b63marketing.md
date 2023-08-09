@@ -9,15 +9,19 @@ After completing [b36story](b36story.md), this is the eighth step to create your
 
 | verse         | Book Title | Author  |
 |---------------|-----------|-----------|
-| gr0v0chord | Tao Te Ching | Lao Tzu (Stephen Mitchell Translation)    |
-| gr0v1ego   | A New Earth | Eckhart Tolle |
-| gr0v2music | Conversational Intelligence | Judith E. Glaser    |
-| gr0v3biomimicry | Cell Language Theory | Sungchul Ji |
+| gr0v0chord | The Emeral Tablets of Thoth | Dr. M. Doreal, Kristen A. Vasques, Doreal    |
+| gr0v1ego   | Outwitting the Devil | Napoleon Hill |
+| gr0v2music | The Master Algorithm | Pedro Domingos    |
+| gr0v3biomimicry | Change Your Thoughts - Change Your Life | Dr. Wayne W. Dyer |
+
+Additional Books for consideration:
+* The Four Agreements
+* Ten Books on Architecture
 
 ## After you make your book selections, please copmlete the following:
 Create an X (Twitter) account for yourself and paste your link here:
 ```
-[X Profile Link here]
+https://twitter.com/solucis8
 ```
 Use your X (Twitter) account to create a hypefury account for yourself. Type "Done" below when complete:
 ```
