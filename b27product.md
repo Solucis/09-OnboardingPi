@@ -10,15 +10,15 @@ The content below is a remix of Arc’s landing page to help our decentralized t
 
 oS3Pi_CYTO: individuals (YOU/NEED)
 
-# [oS3] is the [institution] replacement [we’ve] been waiting for.
+# [BOB] is the [chatbot] replacement [we’ve] been waiting for.
 
-{1. Identify a problem that you want to solve in your city.}
+{1. Subcontractor completes permitting application through a conversation.}
 
-[Download [oS3]]
+[Download [BOB]]
 
-*FOR [GitHub], [Notion], AND [Anytype]
+*FOR [GitHub] and [Botpress]
 
-[Image of oS3 landing page (full screen) in an Arc Browser]
+[Image of BOB landing page (full screen) in an Arc Browser]
 
 [Scroll of different quotes about the product]
 
@@ -26,21 +26,21 @@ oS3Pi_CYTO: individuals (YOU/NEED)
 
 144phiPi_MAMA: nonprofits (GO/SEARCH)
 
-# An [institution] that doesn’t [support corruption] — it [empowers nonprofits to define its values].
+# An [chatbot] that doesn’t [sacrafice quality] — it [empowers subcontractors to navigate regulations].
 
-{2. Create a proposal based on existing nonprofit solutions.}
+{2. Translate permit responses into metadata.}
 
-[Free] and [open source], [DEK] [adapts] to how you [want to transform your city].
+[Free] and [open source], [BOB] [adapts] to how you [need to comply with municipal requirements].
 
 ---
 
 432ourPI_PAPA: businesses (FIND/TAKE)
 
-# [Space] for [small businesses] [to shine].
+# [Space] for [municipalities] [to thrive].
 
-{3. Connect with small businesses who will turn your proposal into a platform plugin.}
+{3. Submit data to municipality.}
 
-[Effectively] [manage] [your platform with leading technologies] — [Machine Learning], [Blockchain Technology], [Biomimicry Innovation] — all in one [view] with [portfolioWallet].
+[Effectively] [manage] [your platform with leading technologies] — [Machine Learning], [Blockchain Technology], [Biomimicry Innovation] — all in one [view] with [BOB].
 
 ---
 
@@ -48,32 +48,32 @@ oS3Pi_CYTO: individuals (YOU/NEED)
 
 # Your [project], your [city].
 
-{4. Submit your platform ecosystem to your city agency to gain access to financing and community support.}
+{4. Email completed application to subcotractors.}
 
-[Implement] your [citywide plan] with [templates], [funding], and more.
-
----
-
-# The [power] of [creative freedom].
-
-oS3] is [design engineered] [from the inside out] to be [secure] and [private]. We [only know about your public teams] or [projects].
+[Streamline] your [permitting] with [templates], [24/7 support], and more.
 
 ---
 
-Way more [simple] than [Municipalities]. [oS3] [looks like] [the future of governance].
+# The [power] of [supreme intelligence].
+
+[BOB] is [design engineered] [from the inside out] to be [secure] and [private]. We [only know about your public permits] or [licenses].
+
+---
+
+Way more [simple] than [Municipalities]. [BOB] [looks like] [the future of permitting].
 
 [@USERNAME]
 
-[oS3] [brought calm] [to the confusion] that was my [community goals]. [I just want more].
+[BOB] [brought calm] [to the confusion] that was my [licensing requrements]. [I just want more].
 
 [@USERNAME]
 
-[oS3] [is more than I imagined]. So [simple], [powerful] and [fun].
+[BOB] [is more than I imagined]. So [simple], [powerful] and [intuitive].
 
 [@USERNAME]
 
 ---
 
-# [Define] [the future] [of your city].
+# [Define] [the future] [of construction].
 
-[Implement [oS3]]
+[Implement [BOB]]
