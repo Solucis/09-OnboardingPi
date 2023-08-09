@@ -8,9 +8,9 @@ The content below is a remix of Substack’s about page for its publication, "On
 
 ---
 
-# Welcome to [PUBLICATION PODCAST NAME], a publicationPodcast from the [CHANGED_0.9.1] team.
+# Welcome to [publicationPodcastName], a publicationPodcast from the Solucis team.
 
-This publicationPodcast is where we share resources for [design engineers] who are creating [ecosystems] with [platform design engineering], [machine learning], [blockchain technology], and [biomimicry]. Learn more about each section below:
+This publicationPodcast is where we share resources for [AEC Professionals] who are creating [ecosystems] with [platform design engineering], [machine learning], [blockchain technology], and [biomimicry]. Learn more about each section below:
 
 ## [Platform Design Engineering]
 
@@ -26,11 +26,11 @@ This publicationPodcast is where we share resources for [design engineers] who a
 
 ## [Biomimicry]
 
-Sharing the latest changes and updates to the [oS3 documentation] through creative stories inspired by [Biomimicry] and [Civil Engineering].
+Sharing the latest changes and updates to the [ZORA documentation] through creative stories inspired by [Biomimicry] and [Civil Engineering].
 
 ---
 
 Once you complete the above, please create a substack account and add this to your about section (you can remove the brackets). Paste your Substack publication here:
 ```
-[SUBSTACK PUBLICATION GOES HERE]
+https://substack.com/@solucis
 ```
