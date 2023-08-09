@@ -5,40 +5,40 @@ After completing [b27product](b27product.md), this is the sixth step to create y
 
 #### What is the problem that your Ideal Customer Profile (ICP) is dealing with? Try to keep your problem statement to less than 15 words.
 ```
-[People] [are forced to live in cities that operate as outdated pipeline businesses] 
+[Anderson, Indiana's Plumbing Subcontractors] [struggle with the complexities of the permit application process] 
 ```
 
 #### What are four negative outcomes that your Ideal Customer Profile experiences because of their problem?
 ```
-1. [Individuals are exclused from citywide planning]
-2. [Nonprofit solutions are underfunded]
-3. [Small businesses lack institutional support]
-4. [Municipalities lack resources needed to support the public]
+1. [Complex Documentation Requirements]: [The process is hard to understand]
+2. [Poor Communication & Transparency]: [Costly delays and stop work orders]
+3. [Outdated Manual Data Entry]: [Leads to errors when submitting documents]
+4. [Costly Stop Work Orders]: [High administrative burden and errors delay work]
 ```
 
 ## 8.1 Solution
 
 #### What is the solution that your platform ecosystem is providing to your Ideal Customer Profile? Try to keep your solution statement to less than 15 words.
 ```
-[ourStory]'s [onboarding framework] [empowers individuals to transform their cities into platform ecosystems]
+[Solucis]' [AI Permitting Chatbot] [transforms Anderson IN's permitting requirements into a seamless process for subcontractors].
 ```
 
 #### What are four positive outcomes that your Ideal Customer Profile will experience based on your solution?
 ```
-1. [Individuals are empowered with open information]
-2. [Nonprofits expand their reach through network effects]
-3. [Small businesses learn how to navigate volatility]
-4. [Municipalities gain insights from platform players]
+1. [Comprehensive Guidance and Simplified Documentation]
+2. [Real-time Communication and Transparency Enhancement]
+3. [Automated Data Management and Error Reduction]
+4. [Minimize Occurances of Stop Work Orders]
 ```
 
 ## 2.7 How It Works
 
 #### How would you describe your Minimum Viable Product in 4 easy to understand steps?
 ```
-1. [Clone "09-OnboardingPi" Repository to your GitHub Profile]
-2. [Personalize repository to create your platform's metadata]
-3. [Prepare and publish each deliverable to form your platform ecosystem]
-4. [Implement Go-To-Market Strategy to onboard investors and contributors]
+1. [Subcontractor completes permitting application through a conversation]
+2. [Translate permit responses into metadata]
+3. [Submit data to municipality for automated review and approval]
+4. [Email approved permit application to subcotractor]
 ```
 
 ## 2.7 Underlying Magic
@@ -57,32 +57,41 @@ After completing [b27product](b27product.md), this is the sixth step to create y
 
 #### What are 6 benefits that your Minimum Viable Product provides to your Ideal Customer Profile?
 ```
-1. Platform-Powered Urban Evolution: Our cutting-edge onboarding framework catalyzes cities' transformation into vibrant platform ecosystems. Harnessing the power of platforms, we drive collaboration, innovation, and economic vitality, ensuring cities thrive in the digital age.
+1. Streamlined Application Process
 
-2. Empowering Through Seamless Onboarding: Our comprehensive onboarding program equips participants with the skills and knowledge to fully leverage the platform economy. By bridging the gap between potential and proficiency, we empower stakeholders to harness the true potential of platforms.
+2. Faster Approvals
 
-3. Amplified Impact Through Networks: Nonprofits gain unprecedented influence by seamlessly integrating into our platform ecosystem. With our onboarding prowess, we enable nonprofits to amplify their reach, catalyzing network effects that drive collective social change.
+3. 24/7 Accessibility
 
-4. Agility for Small Businesses: Our robust onboarding ensures small businesses enter the platform landscape with confidence. Through tailored training and resources, we empower them to navigate platform dynamics, unlocking agility and revenue diversity.
+4. Enhanced Confidence
 
-5. Municipal Insights Through Platform Data: Leveraging the insights generated within our platform ecosystem, municipalities gain invaluable data-driven insights. By harnessing the power of platforms, cities make informed decisions, optimize resources, and elevate quality of life.
+5. Responsive Support
 
-6. Future-Focused Investment: Investing in our project means fueling the future of urbanization through platform potential. With a strong onboarding foundation, we're not just building technology; we're shaping adaptable, resilient cities that thrive on collaboration and innovation.
+6. Cost & Time Savings
 ```
 
 ## 2.7 Business Model
 
 #### What is the business model for your platform ecosystem?
 ```
-- Free
-- $9/mo: Access to GitHub Discussions for One-on-One community feedback
-- $90/mo: 1 editable case study/month that can be adapted for your platform ecosystem
-- $900/mo: 12 editable case studies/month that can be adapted for your platform ecosystem
+- Free documentation of permitting process
+- $33/mo: Subcontractor subscription
+- 200: Customers per month
+- $500/mo: Municipality subscription
+```
+
+## 2.7 Total Addressable Market
+
+#### What is the business model for your platform ecosystem?
+```
+- Total Addressable Market: 89,004 municipalities in the united states (https://www.census.gov/newsroom/releases/archives/governments/cb12-161.html)
+- Servicable Available Market: 569 local governments in the united states (via Kelma - source goes here)
+- Servicable Obtinable Market: 9 local governments including Anderson, IN
 ```
 
 ## 2.7 Go-To-Market Strategy
 
-#### What is the go-t0-market strategy for your platform ecosystem?
+#### What is the go-to-market strategy for your platform ecosystem?
 ```
 - Platform Ecosystem Development: Direct sales of Neutral Alcohol to Alcoholic Beverage Manufacturers and ongoing outreach to strategic partners and investors
 - Platform Ecosystem Expansion: Collaborate with private and public organizations throughout Africa to license DEG’s technology and promote the adoption of locally produced Neutral Alcohol
@@ -92,14 +101,14 @@ After completing [b27product](b27product.md), this is the sixth step to create y
 
 #### What are 4 past milestones and 4 future milestones that demonstrate the progress that you've made?
 ```
-- Past #1: 
+- Past #1: Initial concept development
 - Past #2: 
 - Past #3: 
-- Past #4: 
-- Future #1: 
-- Future #2: 
-- Future #3: 
-- Future #4: 
+- Past #4: Deploy platform ecosystem onboarding program
+- Future #1: Form partnership with learning institution (subcontractor workforce development)
+- Future #2: Develop the structure, plan, and operations for AI Co-pilot
+- Future #3: Secure Development Deal and Deploy Minimum Viable Product of Co-Pilot
+- Future #4: BOB Plumbing Permitting AI Co-Pilot active in 9 municipalities
 ```
 
 ## 4.5 Competitive Advantage
@@ -118,8 +127,8 @@ After completing [b27product](b27product.md), this is the sixth step to create y
 
 #### Who are the main 1-4 team members and a brief description of their contribution?
 ```
-1. [NAME]: [EXPERIENCE]
-2. [NAME]: [EXPERIENCE]
+1. Kelma Zora: [EXPERIENCE]
+2. Nick Achille: [EXPERIENCE]
 3. [NAME]: [EXPERIENCE]
 4. [NAME]: [EXPERIENCE]
 ```
@@ -137,5 +146,5 @@ After completing [b27product](b27product.md), this is the sixth step to create y
 
 #### What is the tagline that will introduce and close your pitch deck?
 ```
-Disrupt [WE_0.9.0]'s [INDUSTRY] to [BENEFIT] with [TECHNOLOGY SUMMARY]
+Disrupt [Indiana]'s [Real Estate Industry] to [improve project success] with [a workforce development AI Co-pilot]
 ```
