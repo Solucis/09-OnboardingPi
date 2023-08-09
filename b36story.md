@@ -15,45 +15,45 @@ After completing [b72design](b72design.md), this is the seventh step to create y
 ## b09onboarding
 #### b09onboarding: What natural system inspires the intelligent species that own the platform ecosystem in your brand mythology?
 ```
-Owner = [CHANGED_0.9.0] = Individuals = [SEARCH_0.9.0]
+Owner = [ZORA] = Individuals = [Eukaryotic Cell: Membrane]
 ```
 
 #### b09onboarding: What is the name of the mythology that represents the genesis story/playlist of your platform ecosystem?
 ```
-ep0_[CHANGED_0.9.3]
+ep0_[Ha' Muluk: Builder of the Minds]
 ```
 
 ## b90training
 #### b90training: What natural system inspires the intelligent species that acts as providers (setting/interface) in your platform ecosystem's mythology?
 ```
-Providers = [CHANGED_0.9.1] = Nonprofits = [SEARCH_0.9.1]
+Providers = [Solucis] = Nonprofits = [The Planet: Van Allen Belt]
 ```
 
 #### b90training: What song will act as the introduction to your platform ecosystem's mythology?
 ```
-[ENTER SONG AND ARTIST NAME HERE]
+[Genesis by 3rd Eye Indigo]
 ```
 
 ## b18governance
 #### b18governance: What natural system inspires the intelligent species that acts as producers (hero/main character) in your platform ecosystem's mythology?
 ```
-Producers = [CHANGED_0.9.2] = Businesses = [SEARCH_0.9.2]
+Producers = [lp0_Master of Seers] = Businesses = [Tree: Bark]
 ```
 
 #### b18governance: What song will act as the end goal of what the hero is working towards in your platform ecosystem's mythology?
 ```
-[ENTER SONG AND ARTIST NAME HERE]
+[River Flows In You by Yuma]
 ```
 
 ## b81operations
 #### b81operations: What natural system inspires the intelligent species that acts as consumers (mentor) in your platform ecosystem's mythology?
 ```
-Consumers = [CHANGED_0.9.3] = Institutions = [SEARCH_0.9.3]
+Consumers = [Ha' Muluk: Builder of the Minds] = Institutions = [Human: Integumentary System]
 ```
 
 #### b81operations: What song will act as the catalyst that inspires your hero and mentor to go on a journey?
 ```
-[ENTER SONG AND ARTIST NAME HERE]
+[Spirit's Warriors by FR33SOL, Spiritual Tony]
 ```
 
 ## b27product
@@ -64,7 +64,7 @@ Consumers = [CHANGED_0.9.3] = Institutions = [SEARCH_0.9.3]
 
 #### b27product: What song represents the product that you're creating with your onboarding project?
 ```
-[ENTER SONG AND ARTIST NAME HERE]
+[tell em (8D Audio)]
 ```
 
 ## b72design
@@ -73,9 +73,9 @@ Consumers = [CHANGED_0.9.3] = Institutions = [SEARCH_0.9.3]
 0.9 OnboardingPi: How to create an onboarding program for a platform ecosystem
 ```
 
-#### b72designt: What song sets the tone for your hero's journey?
+#### b72design: What song sets the tone for your hero's journey?
 ```
-[ENTER SONG AND ARTIST NAME HERE]
+[Flow State (528hz) by D'rok the Menace]
 ```
 
 ## b36story
@@ -86,7 +86,7 @@ The growth of a tree system from embryo to climax community
 
 #### b36story: What song will inspire the creative visuals of your creative transformation?
 ```
-[ENTER SONG AND ARTIST NAME HERE]
+[Glory by Ace Hood]
 ```
 
 ## b63marketing
@@ -97,7 +97,7 @@ Language Institution: Censorship
 
 #### b63marketing: What song will help people relax in the face of corruption so they can develop imaginitive and fun solutions?
 ```
-[ENTER SONG AND ARTIST NAME HERE]
+[Fertile Soil by FR33SOL, Londrelle]
 ```
 
 ## b45publication
@@ -108,7 +108,7 @@ Language Institution: Censorship
 
 #### b45publication: What song will inspire how your platform ecosystem shares its lessons learned with the world?
 ```
-[ENTER SONG AND ARTIST NAME HERE]
+[Truth by Spiritual Tony]
 ```
 
 ## b54portfolio
@@ -119,10 +119,10 @@ Bitcoin Proof-of-Work Protocol
 
 #### b54portfolio: What song represents the work the hero puts in to tame its dragon to achieve its goal?
 ```
-[ENTER SONG AND ARTIST NAME HERE]
+[Gratitude(62.50hz) by D'rok the Menace]
 ```
 
 ## After completing these steps, create an instagram account for your business and paste a link to the profile below:
 ```
-[Instagram Profile Link]
+[https://www.instagram.com/solucis]
 ```
